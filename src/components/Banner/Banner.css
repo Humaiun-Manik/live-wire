@@ -1,0 +1,36 @@
+.banner-container {
+    background-image: url("https://images.unsplash.com/photo-1570717173024-ec8081c8f8e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 650px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.title {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 150px;
+}
+.view-btn {
+    background-color: #ff0505;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 40px;
+    color: white;
+    font-size: 22px;
+    margin-left: 100px;
+}
+.view-btn:hover{
+    background-color: #3A127D;
+    transition: 0.1s;
+}
+.popular-courses p{
+    font-size: 16px;
+    color: #585858;
+}
+.all-courses-btn{
+    width: 250px;
+}

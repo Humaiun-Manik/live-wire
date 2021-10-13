@@ -1,0 +1,81 @@
+.footer-content{
+    background-color: #37393e;
+    padding: 50px 0px;
+}
+.socials {
+    text-align: center;
+}
+.socials i{
+    font-size: 30px;
+    padding: 20px;
+    margin: 0px 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.fa-facebook-f{
+    color: #3C599F;
+}
+.fa-facebook-f:hover{
+    background-color: #3C599F;
+    color: white;
+    border: 1px solid #3C599F;
+}
+.fa-twitter{
+    color: #00B1FF;
+}
+.fa-twitter:hover{
+    background-color: #00B1FF;
+    color: white;
+    border: 1px solid #00B1FF;
+}
+.fa-linkedin-in{
+    color: #0085AE;
+}
+.fa-linkedin-in:hover{
+    background-color: #0085AE;
+    color: white;
+    border:1px solid #0085AE;
+}
+.fa-google-plus-g{
+    color: #DD2027;
+}
+.fa-google-plus-g:hover{
+    background-color: #DD2027;
+    color: white;
+    border: 1px solid #DD2027;
+}
+.footer-bottom{
+    background-color: black;
+}
+.address{
+    color: white;
+    font-size: 18px;
+    padding-top: 40px;
+}
+.address i{
+    margin-right: 15px;
+}
+.menu-item{
+    font-size: 18px;
+    color: white;
+    width: 100px;
+    text-decoration: none;
+}
+.menu-item:hover{
+    color: white;
+    text-decoration:underline;
+}
+.pay-with{
+    width: 100%;
+    height: 100%;
+}
+.horizontal-line{
+    border:none;
+    height: 5px;
+    background: white;
+}
+.copyright{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}

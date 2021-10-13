@@ -1,0 +1,19 @@
+.single-course:hover{
+    border: 1px solid #f10404;
+}
+.btn-regular{
+    border: none;
+    color: red;
+    background-color: white;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0px;
+    padding: 5px 0px;
+}
+.btn-regular:hover{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    transition: 0.5s;
+}

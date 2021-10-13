@@ -1,0 +1,11 @@
+.manu{
+    color:black;
+    text-decoration: none;
+    font-size: 25px;
+    text-align-last: right;
+}
+.manu:hover{
+    color: #3A127D;
+    font-weight: 500;
+    transition: 0.3s;
+}

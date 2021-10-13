@@ -1,0 +1,65 @@
+[
+    {
+        "courseCode": "321",
+        "courseName": "Ethical Hacking",
+        "duration": "2 month",
+        "price": "40.55",
+        "img": "https://www.thehackersworld.com/wp-content/uploads/2020/06/Ethical-Hacking-Beginners-Course-1536x864.jpg"
+    },
+    {
+        "courseCode": "101",
+        "courseName": "Business Analytics",
+        "duration": "3 weeks",
+        "price": "25.97",
+        "img": "https://analytics.hbs.edu/wp-content/uploads/sites/15/2020/10/BizAnalytics_vs_Intelligence-Hero.jpg"
+    },
+    {
+        "courseCode": "202",
+        "courseName": "Embedded Systems",
+        "duration": "4 weeks",
+        "price": "26.99",
+        "img": "https://blogs.windriver.com/content/images/size/w2000/2019/09/helix-ebook-image-1.jpg"
+    },
+    {
+        "courseCode": "301",
+        "courseName": "Network Security",
+        "duration": "1 month",
+        "price": "37.87",
+        "img": "https://sectigostore.com/blog/wp-content/uploads/2020/05/network-security-best-practices.jpg"
+    },
+    {
+        "courseCode": "222",
+        "courseName": "Data Science",
+        "duration": "1 month",
+        "price": "28.55",
+        "img": "https://cdn.datafloq.com/cache/blog_pictures/878x531/data-science-methods-and-algorithms-for-big-data.jpg"
+    },
+    {
+        "courseCode": "211",
+        "courseName": "Cloud Computing",
+        "duration": "3 weeks",
+        "price": "20.99",
+        "img": "https://www.openaccessgovernment.org/wp-content/uploads/2020/02/dreamstime_xxl_143701086.jpg"
+    },
+    {
+        "courseCode": "112",
+        "courseName": "Data Analytics",
+        "duration": "3 weeks",
+        "price": "22.79",
+        "img": "https://njbmagazine.com/wp-content/uploads/2021/06/Data_301985997-775x500.gif"
+    },
+    {
+        "courseCode": "212",
+        "courseName": "Project Manager",
+        "duration": "2 weeks",
+        "price": "15.29",
+        "img": "https://k2partnering.com/wp-content/uploads/2018/05/Project-Management-300x218.jpg"
+    },
+    {
+        "courseCode": "111",
+        "courseName": "CAD/CAM",
+        "duration": "2 weeks",
+        "price": "12.99",
+        "img": "https://sprutcam.com/wp-content/uploads/2020/03/CAM-software-is-the-engeneering-software-used-by-CNC-machinists-and-industrial-robots-programmers-min-600x376.jpg"
+    }
+]
